@@ -1,4 +1,4 @@
-![Gravação-de-tela-de-13-04-2023-22_42_01](https://user-images.githubusercontent.com/47211806/231920255-d7bbf60e-7a5b-4160-b2ff-e5d6cc5936f3.gif)
+![Captura de tela de 2023-04-13 22-51-46](https://user-images.githubusercontent.com/47211806/231921003-089d1e2c-1c73-4306-b1ef-70d594c6acbe.png)
 
 # FormsReativos
 
