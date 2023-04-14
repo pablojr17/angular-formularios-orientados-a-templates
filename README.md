@@ -1,3 +1,5 @@
+![Gravação-de-tela-de-13-04-2023-22_42_01](https://user-images.githubusercontent.com/47211806/231920255-d7bbf60e-7a5b-4160-b2ff-e5d6cc5936f3.gif)
+
 # FormsReativos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
@@ -25,4 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
 # angular-formularios-orientados-a-templates
